@@ -197,6 +197,7 @@ public class LinkList {
 	    System.out.println(intLL.getIndex("1"));
 	    
 	   intLL.reverseList(intLL.head); 
+	   System.out.println("some changes in codes !!");
 	   
 		 
 	}
